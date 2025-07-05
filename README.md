@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Vlad 👋</h1>
 
-<!--
-**Vladdjuga/Vladdjuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 Computer Science student who builds real stuff.<br>
+  💻 Backend dev | Go / C# / Java | <br>
+  🔥 Making projects that solve real problems & are fun to build
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I do
+- Backend development with **C# (.NET)**, **Go**, **Java**
+- Microservices, gRPC, WebSockets, real-time systems
+- Databases: **PostgreSQL**, **MongoDB**, **Firebase**
+
+---
+
+### 🚧 Projects
+- 🗨️ **Messenger Platform** — Microservice-based chat app with gRPC & WebSocket in Go/C#
+- 🐻 **Five Nights at Freddy's Clone** — Unity game that I did for pure fun and knowledge!
+
+---
+
+### 🤘 About me
+I love clean code, good architecture, and solving problems that matter.  
+Always learning, always building. I'm not afraid to get my hands dirty with complex systems.  
+Also — pretty chill guy to work with 😎
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vladdjuga&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladdjuga&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+### 📫 Contact me
+
+- [LinkedIn](https://linkedin.com/in/vladyslav-dzhuha)
+- [Telegram](https://t.me/idepieszo)  
+- ✉️ vladdjuga@gmail.com
+
+---
+
+🎨 Great thanks for the avatar <a href="https://www.flaticon.com/free-icons/karate" title="karate icons">Karate icons created by Freepik - Flaticon</a>
