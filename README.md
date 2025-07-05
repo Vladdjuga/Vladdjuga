@@ -44,5 +44,3 @@ Also — pretty chill guy to work with 😎
 - ✉️ vladdjuga@gmail.com
 
 ---
-
-🎨 Great thanks for the avatar <a href="https://www.flaticon.com/free-icons/karate" title="karate icons">Karate icons created by Freepik - Flaticon</a>
