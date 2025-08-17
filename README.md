@@ -2,23 +2,25 @@
 
 <p align="center">
   🧠 Computer Science student who builds real stuff.<br>
-  💻 Backend dev | C# / TS / Go / Java | <br>
-  🔥 Making projects that solve real problems & are fun to build
+  💻 Backend dev | 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 ---
 
 ### 🛠 What I do
-- Backend development with **C# (.NET)**, **TypeScript(Node.js and Express.js)**, **Go**, **Java**
 - Microservices, gRPC, WebSockets, real-time systems
-- Databases: **PostgreSQL**, **MongoDB**, **Firebase**
+- Databases <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> 
 
 ---
 
 ### 🚧 Projects
-- 🗨️ **Messenger Platform** — Microservice-based chat app with gRPC & WebSocket in Go/C#
-- ⚔️ **Clash Royale Mini Clone** — A Unity-based strategy arena game inspired by Clash Royale. Implemented core battle mechanics between a player and AI.
-- 🐻 **Five Nights at Freddy's Clone** — Unity game that I did for pure fun and knowledge!
+- 🗨️ **Messenger Platform** — gRPC & WebSocket real-time chat app in С#/TypeScript
+- ⚔️ **Clash Royale Mini Clone** — <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> strategy arena game (Player vs AI)
+- 🐻 **Five Nights at Freddy's Clone** — <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> fun project for learning and experimenting
 
 ---
 
