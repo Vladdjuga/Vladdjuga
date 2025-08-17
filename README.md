@@ -9,7 +9,7 @@
 ---
 
 ### 🛠 What I do
-- Backend development with **C# (.NET)**, **TypeScript(Node.JS and Express.js)**, **Go**, **Java**
+- Backend development with **C# (.NET)**, **TypeScript(Node.js and Express.js)**, **Go**, **Java**
 - Microservices, gRPC, WebSockets, real-time systems
 - Databases: **PostgreSQL**, **MongoDB**, **Firebase**
 
