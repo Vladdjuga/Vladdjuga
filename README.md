@@ -2,14 +2,14 @@
 
 <p align="center">
   🧠 Computer Science student who builds real stuff.<br>
-  💻 Backend dev | Go / C# / Java | <br>
+  💻 Backend dev | C# / TS / Go / Java | <br>
   🔥 Making projects that solve real problems & are fun to build
 </p>
 
 ---
 
 ### 🛠 What I do
-- Backend development with **C# (.NET)**, **Go**, **Java**
+- Backend development with **C# (.NET)**, **TypeScript(Node.JS and Express.js)**, **Go**, **Java**
 - Microservices, gRPC, WebSockets, real-time systems
 - Databases: **PostgreSQL**, **MongoDB**, **Firebase**
 
@@ -17,6 +17,7 @@
 
 ### 🚧 Projects
 - 🗨️ **Messenger Platform** — Microservice-based chat app with gRPC & WebSocket in Go/C#
+- ⚔️ **Clash Royale Mini Clone** — A Unity-based strategy arena game inspired by Clash Royale. Implemented core battle mechanics between a player and AI.
 - 🐻 **Five Nights at Freddy's Clone** — Unity game that I did for pure fun and knowledge!
 
 ---
