@@ -32,15 +32,6 @@ Also — pretty chill guy to work with 😎
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vladdjuga&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladdjuga&layout=compact&theme=dark" height="170" />
-</p>
-
----
-
 ### 📫 Contact me
 
 - [LinkedIn](https://linkedin.com/in/vladyslav-dzhuha)
