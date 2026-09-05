@@ -9,7 +9,7 @@
 
 ---
 
-### 💼 Professional Experience & Enterprise Impact
+### 💼 Professional Experience
 
 - **Junior .NET Developer @ EY GDS** *(Mar 2026 – Present | Katowice, Poland)*
 
