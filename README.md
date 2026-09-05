@@ -12,16 +12,9 @@
 ### 💼 Professional Experience & Enterprise Impact
 
 - **Junior .NET Developer @ EY GDS** *(Mar 2026 – Present | Katowice, Poland)*
-  - ⚡ **500%+ Throughput Boost**: Re-architected legacy Power Automate workflows into durable Azure Functions with multiple triggers, querying and serializing large datasets to XML.
-  - ☁️ **Azure Cloud & Serverless**: Built serverless microservices (.NET 10, Azure Functions) integrated with Microsoft Dataverse for an enterprise global trade platform.
-  - 🚌 **Messaging & Event-Driven**: Spearheading the architectural migration to **Azure Service Bus** for critical asynchronous processing pipelines to guarantee zero message loss during peak loads.
-  - 🛠️ **Production Diagnostics & Zero-Touch DevOps**: Resolved concurrency lock bottlenecks on Azure Blob Storage unblocking ingestion pipelines; resolved 30+ defects across 5 Azure DevOps environments (DEV to PROD).
-  - 🧪 **Automated Testing**: Authored 90+ robust unit tests using **xUnit** and **NSubstitute**.
-  - 💻 **CLI Automation**: Built 5+ .NET CLI tools with command verbs to automate extraction and transformation workflows.
 
 - **Software Engineering Intern @ Zagrava Games** *(Jul 2025 – Aug 2025 | Remote)*
-  - Developed decoupled movement and combat systems in C# / Unity leveraging GoF design patterns (State, Strategy, Factory, Facade) and event-driven architecture within an Agile team.
-
+  
 ---
 
 ### 🎓 Education & Background
